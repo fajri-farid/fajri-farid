@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fajri-farid&label=Profile%20views&color=0e75b6&style=flat" alt="fajri-farid" /> </p>
 
-- 🌱 I’m currently learning **React JS, Next JS, & MERN stack**
+- 🌱 I’m currently learning **MERN stack**
 
 - 📝 I regularly write articles on https://medium.com/@fajrifarid
 
