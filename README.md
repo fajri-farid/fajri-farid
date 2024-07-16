@@ -26,7 +26,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fajri farid" height="30" width="40" title="Watch my videos on YouTube"/>
   </a>
 </p>
-
+<div align="center">
+<h2>SKILLS🧑🏻‍💻</h3>
+</div>
 <h3 align="left">Languages:</h3>
 <p align="left" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
