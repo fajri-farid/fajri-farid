@@ -32,7 +32,7 @@
 <h3 align="left">Languages:</h3>
 <p align="left" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,python" />
+    <img src="https://skillicons.dev/icons?i=c,js,python,mysql" />
   </a> 
 </p>
 
@@ -43,17 +43,17 @@
   </a>
 </p>
 
-<h3 align="left">Back-End:</h3>
+<h3 align="left">Back-End & Databases:</h3>
 <p align="left" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
   </a>
 </p>
 
 <h3 align="left">Tools:</h3>
 <p align="left" style="margin-top: 20px;">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
   </a>
 </p>
 
