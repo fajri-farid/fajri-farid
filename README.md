@@ -67,6 +67,6 @@
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajri-farid&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
   <p align="left" style="margin-top: 40px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fajri-farid&" alt="fajri-farid" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fajri-farid&theme=tokyonight" alt="fajri-farid" />
   </p>
 </details>
