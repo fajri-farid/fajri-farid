@@ -39,7 +39,7 @@
 <h3 align="left">Front-End:</h3>
 <p align="left" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nextjs" />
   </a>
 </p>
 
@@ -60,11 +60,13 @@
 
 
 
-<div align="center" style="margin-top: 40px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fajri-farid&show_icons=true&locale=en&layout=compact" alt="fajri-farid" style="margin-right: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=fajri-farid&show_icons=true&locale=en" alt="fajri-farid" />
-</div>
+<details>
+  <summary> Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=fajri-farid&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajri-farid&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
-<p align="center" style="margin-top: 40px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fajri-farid&" alt="fajri-farid" />
-</p>
+  <p align="left" style="margin-top: 40px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fajri-farid&" alt="fajri-farid" />
+  </p>
+</details>
