@@ -46,7 +46,7 @@
 <h3 align="left">Back-End:</h3>
 <p align="left" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,nextjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres" />
   </a>
 </p>
 
