@@ -39,14 +39,14 @@
 <h3 align="left">Front-End:</h3>
 <p align="left" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
   </a>
 </p>
 
 <h3 align="left">Back-End & Databases:</h3>
 <p align="left" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,express" />
   </a>
 </p>
 
