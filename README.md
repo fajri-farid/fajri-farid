@@ -27,7 +27,7 @@
   </a>
 </p>
 <div align="center">
-<h2>SKILLS🧑🏻‍💻</h3>
+<h2>TECHSTACKS🧑🏻‍💻</h3>
 </div>
 <h3 align="left">Languages:</h3>
 <p align="left" style="margin-top: 20px;">
@@ -46,7 +46,7 @@
 <h3 align="left">Back-End & Databases:</h3>
 <p align="left" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,express,prisma,sequelize" />
   </a>
 </p>
 
