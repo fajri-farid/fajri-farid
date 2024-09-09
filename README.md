@@ -7,8 +7,6 @@
 
 - 📝 I regularly write articles on https://medium.com/@fajrifarid
 
-- 💬 Ask me about **HTML, CSS, Javascript, & Tailwind CSS**
-
 - 📫 How to reach me **fajrijry14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
