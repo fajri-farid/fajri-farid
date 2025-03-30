@@ -55,11 +55,11 @@
   </a>
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/0f549718-7d83-4e36-b054-19cb2ee2b9de.svg)](https://wakatime.com/@0f549718-7d83-4e36-b054-19cb2ee2b9de)
-
 
 <details>
   <summary> Github Stats ⚡</summary>
+
+  [![wakatime](https://wakatime.com/badge/user/0f549718-7d83-4e36-b054-19cb2ee2b9de.svg)](https://wakatime.com/@0f549718-7d83-4e36-b054-19cb2ee2b9de)
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=fajri-farid&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajri-farid&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
@@ -67,4 +67,6 @@
   <p align="left" style="margin-top: 40px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=fajri-farid&theme=tokyonight" alt="fajri-farid" />
   </p>
+
+  <a href="https://wakatime.com/@fajrifarid"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=fajrifarid&layout=compact&theme=react&langs_count=6" /></a>
 </details>
