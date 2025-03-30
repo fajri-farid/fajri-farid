@@ -55,7 +55,7 @@
   </a>
 </p>
 
-
+[![wakatime](https://wakatime.com/badge/user/0f549718-7d83-4e36-b054-19cb2ee2b9de.svg)](https://wakatime.com/@0f549718-7d83-4e36-b054-19cb2ee2b9de)
 
 
 <details>
