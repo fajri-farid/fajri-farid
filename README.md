@@ -11,18 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/muh-fajri-farid-aaa0581b8/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muh. fajri farid" height="30" width="40"   title="Connect with me on LinkedIn"/>
-</a>
-  <a href="https://www.instagram.com/fajri_farid/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fajri_farid" height="30" width="40" title="Follow me on Instagram" />
-  </a>
-  <a href="https://medium.com/@fajrifarid" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@fajrifarid" height="30" width="40" title="Read my articles on Medium" />
-  </a>
-  <a href="https://www.youtube.com/@fajri_farid" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fajri farid" height="30" width="40" title="Watch my videos on YouTube"/>
-  </a>
+  <a href="mailto:fajrijry14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhfajrifarid"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
+  <a href="https://medium.com/@fajrifarid"><img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@fajri_farid"><img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.instagram.com/fajri_farid"><img src="https://img.shields.io/badge/Instagram-FD1D1D?style=plastic&logo=instagram&logoColor=white" /></a>
 </p>
 <div align="center">
 <h2>TECHSTACKS🧑🏻‍💻</h3>
