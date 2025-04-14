@@ -30,7 +30,7 @@
 <h3 align="left">Front-End:</h3>
 <p align="left" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,nextjs,wordpress" />
   </a>
 </p>
 
