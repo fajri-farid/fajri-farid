@@ -37,7 +37,7 @@
 <h3 align="left">Back-End & Databases:</h3>
 <p align="left" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,express,prisma,sequelize" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,express,prisma,sequelize,firebase,supabase" />
   </a>
 </p>
 
