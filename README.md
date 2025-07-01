@@ -30,21 +30,21 @@
 <h3 align="left">Front-End:</h3>
 <p align="left" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,nextjs,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,nextjs,wordpress" />
   </a>
 </p>
 
 <h3 align="left">Back-End & Databases:</h3>
 <p align="left" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,express,prisma,sequelize,firebase,supabase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,express,prisma,sequelize,firebase,supabase" />
   </a>
 </p>
 
 <h3 align="left">Tools:</h3>
 <p align="left" style="margin-top: 20px;">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,ubuntu" />
   </a>
 </p>
 
