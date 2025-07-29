@@ -23,7 +23,7 @@
 <h3 align="left">Languages:</h3>
 <p align="left" style="margin-top: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,python,mysql,kotlin" />
+    <img src="https://skillicons.dev/icons?i=c,js,python,mysql,kotlin,php" />
   </a> 
 </p>
 
